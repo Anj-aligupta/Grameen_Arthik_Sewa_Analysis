@@ -2,7 +2,7 @@
 
 A real-time C-suite business intelligence dashboard that consolidates data from **6 sources** — ERP, CRM, Marketing, Finance, HR, and Support — into a single interactive interface used for executive decision-making.
 
-> **Portfolio Project** · Built by Alex Sharma · Data Analyst
+
 
 ---
 
