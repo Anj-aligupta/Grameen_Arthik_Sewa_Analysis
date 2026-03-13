@@ -132,7 +132,4 @@ revenue-dashboard/
 
 ---
 
-## 📬 Contact
 
-**Alex Sharma** · Senior Data Analyst  
-📧 alex.sharma@email.com · [LinkedIn](https://linkedin.com/in/alexsharma-da) · [GitHub](https://github.com/alexsharma-data)
